@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="vsThemes" GUID="{19493b21-328d-43f3-9ee4-e4ea82350ac1}" BaseGUID="{d06e164f-fc85-41de-832e-2c5819c4b31b}">
+  <Theme Name="vsThemes (7)" GUID="{4e4c8bd2-7a39-415e-8958-0a3d7bb79d14}" BaseGUID="{d06e164f-fc85-41de-832e-2c5819c4b31b}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Chevron">
         <Foreground Type="CT_RAW" Source="FF011627" />
@@ -3059,7 +3059,7 @@
         <Background Type="CT_RAW" Source="FFCCE2EF" />
       </Color>
       <Color Name="FileTabBorder">
-        <Background Type="CT_RAW" Source="FF252526" />
+        <Background Type="CT_RAW" Source="FF122D42" />
       </Color>
       <Color Name="FileTabInactiveBorder">
         <Background Type="CT_RAW" Source="FF252526" />
@@ -3298,7 +3298,7 @@
         <Background Type="CT_RAW" Source="00000000" />
       </Color>
       <Color Name="CommandBarMenuBorder">
-        <Background Type="CT_RAW" Source="FF424242" />
+        <Background Type="CT_RAW" Source="FF122D42" />
       </Color>
       <Color Name="CommandBarMenuGlyph">
         <Background Type="CT_RAW" Source="FFD6D6D6" />
@@ -7709,7 +7709,7 @@
       </Color>
       <Color Name="Identifier">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FFD3E9F4" />
+        <Foreground Type="CT_RAW" Source="FFA4CEEE" />
       </Color>
       <Color Name="Keyword">
         <Background Type="CT_RAW" Source="FF011627" />
